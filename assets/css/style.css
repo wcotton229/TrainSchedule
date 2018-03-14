@@ -1,0 +1,19 @@
+.jumbotron {
+    color: rgb(204, 105, 24);
+    background-color: rgba(0,0,0,0.3);
+    text-align: center;
+    background-image: url("../images/background_image.png");
+    padding: 1.8rem 2rem;
+}
+
+.display-3{
+    font-weight: 600;
+}
+
+.row{
+    padding-bottom: 30px;
+}
+
+.container{
+    max-width: 800px;
+}
