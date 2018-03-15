@@ -1,5 +1,5 @@
 .jumbotron {
-    color: rgb(204, 105, 24);
+    color: rgb(181, 26, 26);
     background-color: rgba(0,0,0,0.3);
     text-align: center;
     background-image: url("../images/background_image.png");
@@ -8,6 +8,8 @@
 
 .display-3{
     font-weight: 600;
+    font-family: 'Carter One', cursive;
+
 }
 
 .row{
@@ -16,4 +18,14 @@
 
 .container{
     max-width: 800px;
+}
+
+body{
+    background-image: url("../images/body_background.jpg");
+    background-size: cover;
+}
+
+.card-header{
+    background-color: rgb(181, 26, 26);
+    color: white;
 }

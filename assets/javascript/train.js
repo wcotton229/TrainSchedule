@@ -53,7 +53,7 @@ $(document).ready(function () {
         // Time apart (remainder)
         var tRemainder = diffTime % newFreq;
 
-        // Minute(s) Until Train
+        // Minutes Until Train Arrives
         var tMinutesTillTrain = newFreq - tRemainder;
 
         // Next Train
