@@ -11,11 +11,11 @@ The train scheduler takes in user information, stores it in a Firebase database,
 
 ## Built With
 
-JavaScript - Makes it interactive
-JQuery - Handles events
-CSS - Makes it pretty
-Moment.js - Handles the time
-Firebase - Holds information in its database
+* JavaScript - Makes it interactive
+* JQuery - Handles events
+* CSS - Makes it pretty
+* Moment.js - Handles the time
+* Firebase - Holds information in its database
 
 ## Author
 
