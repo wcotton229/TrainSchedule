@@ -17,9 +17,9 @@ The train scheduler takes in user information, stores it in a Firebase database,
 * Moment.js - Handles the time
 * Firebase - Holds information in its database
 
-## Author
+## Authors
 
-William Cotton - wcotton229
+* **William Cotton** - *[wcotton229](https://github.com/wcotton229)*
 
 ## License
 
